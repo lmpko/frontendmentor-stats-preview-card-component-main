@@ -134,4 +134,9 @@ section div span:nth-child(2){
         width: 85%;
     }
 
+    section div span:nth-child(2){
+       text-transform: uppercase;
+    }
+    
+
 }
