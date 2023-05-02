@@ -1,3 +1,13 @@
 /* font-family: 'Inter', sans-serif;
 font-family: 'Lexend Deca', sans-serif; */
 
+:root{
+    --primary-color: hsl(233, 47%, 7%);
+    --secondary-color: hsl(244, 38%, 16%);
+    --tertiary-color: hsl(277, 64%, 61%);
+
+    --fouthary-color: hsl(0, 0%, 100%);
+    --fifthary-color:  hsla(0, 0%, 100%, 0.75);
+    --sixthary-color: hsla(0, 0%, 100%, 0.6);
+}
+
